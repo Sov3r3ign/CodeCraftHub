@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CodeCraftHub
 
 Personal Learning Goal Tracker API
@@ -457,3 +458,6 @@ This project is currently marked as ISC in package.json.
 See the package.json file for the project's configured license.
 
 CodeCraftHub — Track your learning goals, monitor your progress, and keep building your developer skills.
+=======
+# CodeCraftHub
+>>>>>>> 3be32f7aeced5f3b867635a3738af565920f7164
