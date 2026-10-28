@@ -1,0 +1,20 @@
+{
+  "name": "codecrafthub",
+  "version": "1.0.0",
+  "description": "Personal learning goal tracker API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": ["learning", "courses", "rest-api"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

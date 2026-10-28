@@ -1,0 +1,18 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "JavaScript Basics",
+      "description": "Learn the fundamentals of JavaScript programming",
+      "targetDate": "2024-03-31",
+      "status": "In Progress"
+    },
+    {
+      "id": 2,
+      "name": "REST APIs with Node.js",
+      "description": "Build scalable APIs using Express framework",
+      "targetDate": "2024-04-15",
+      "status": "Not Started"
+    }
+  ]
+}
